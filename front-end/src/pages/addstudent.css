@@ -1,0 +1,45 @@
+#btn-submit {
+  color: #ffffff !important;
+  background-color: orange;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border: transparent;
+  padding: 7px 10px 7px 10px;
+  font-size: 17px;
+}
+
+
+
+#label-addstudent {
+  font-weight: bold;
+
+}
+
+#sec {
+  border: 3px solid black;
+  margin-right: 5px;
+  padding: 7px;
+  /* background-color: rgb(255, 255, 255); */
+}
+
+#sec-h1{
+
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.red-text {
+  color: red;
+}
+
+.green-text {
+  color: green;
+}
+
+#numbers{
+  font-weight: bold;
+  color: black;
+}

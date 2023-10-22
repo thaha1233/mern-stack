@@ -1,0 +1,114 @@
+#icon-card {
+  margin-left: 15px;
+  font-size: 26px;
+}
+
+#Container-card {
+  margin-top: 20px;
+  
+}
+
+.card {
+  -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4, 26, 55, 0.16);
+  box-shadow: 0 1px 2.94px 0.06px rgba(4, 26, 55, 0.16);
+  border: none;
+  margin-bottom: 30px;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+
+}
+
+#card-1 {
+  background-color: rgb(255, 146, 5);
+}
+
+
+#card-2 {
+  background-color: #98bdff;
+}
+
+#card-2 {
+  background-color: #077fee;
+}
+#card-3 {
+  background-color: rgb(235, 19, 19);
+}
+
+#card-4 {
+  background-color: rgb(19, 212, 61);
+}
+#card-link{
+  color: #ffffff !important;
+}
+
+.card-title {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-right: 10px;
+}
+
+
+
+.text-right {
+  text-align: center;
+}
+
+
+
+table {
+  width: 100% !important;
+  text-align: center;
+}
+
+
+th,
+td {
+  padding: 10px !important;
+}
+
+th {
+  color: white !important;
+  background-color: rgb(238, 159, 13) !important;
+
+}
+
+
+
+.top-information,
+.bottom-information {
+  padding: 0 20px;
+}
+
+#icon-tabls {
+  color: rgb(234, 144, 27);
+  font-size: 27px;
+}
+
+.header-tabls {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#icon-Completed {
+  color: rgb(234, 144, 27);
+}
+
+.LineChart {
+  width: 100% !important;
+}
+
+.centered-chart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+}
+
+#num-s{
+  color: #ffffff;
+}
+
+

@@ -1,0 +1,46 @@
+.container-table {
+  padding: 0 1% 0 1%;
+  margin-top: 20px;
+}
+
+
+#err-stu {
+  text-align: center;
+  font-size: 2rem;
+  color: rgb(176, 55, 55);
+  font-weight: bold;
+}
+
+#orther {
+  color: white;
+  background-color: rgb(28, 127, 240);
+  text-decoration: none;
+  padding: 7px;
+  font-weight: 600;
+  border: transparent;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+#btn-nextPage {
+  padding: 7px;
+  margin: 2px;
+  background-color: rgb(255, 179, 39) !important;
+  border: transparent;
+  font-weight: bold !important;
+  font-size: 17px;
+
+
+}
+
+
+#responsive-data-table {
+  font-family: 'Miriam Libre', sans-serif;
+}
+
+table{
+  margin-top: 10px;
+}
